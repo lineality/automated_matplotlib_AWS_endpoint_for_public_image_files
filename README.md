@@ -1,0 +1,2 @@
+# automated_matplotlib_AWS_endpoint_for_public_image_files
+automated_matplotlib_AWS_endpoint_for_public_image_files
